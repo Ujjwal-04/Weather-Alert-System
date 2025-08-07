@@ -216,8 +216,12 @@ This project gave me hands-on experience with:
 
 ---
 
+## 🧑‍💻 Author
 
-## 🔗 Author
+**UJJWAL WADHAI**  
 
-Made by [Ujjwal Wadhai]
+🔗 [GitHub](https://github.com/Ujjwal-04)
+🔗 [LinkedIn](www.linkedin.com/in/ujjwal-wadhai)
+
+---
 
