@@ -37,6 +37,8 @@ User specifies city → Lambda fetches weather via OpenWeatherMap API
 
 ## 📐 Architecture Diagram
 
+<img width="1536" height="1024" alt="ChatGPT Image Aug 7, 2025, 01_02_39 PM" src="https://github.com/user-attachments/assets/59bad292-9def-4b58-8564-352504f6fbd9" />
+
 ```
 +-------------------+       HTTP Request      +-----------------------+
 |   EventBridge     |  -------------------->  |    AWS Lambda         |
